@@ -1,0 +1,9 @@
+model, view, controller
+
+it splits an large/ complex app into smaller parts that handle different tasks within the app
+
+controller - handles requests, 
+model - handle data, interacts with the db
+view - handles data presentation
+
+the view and model never interact with each other
